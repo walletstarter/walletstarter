@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wallet & VPN Brand Domains For Sale | WalletStarter Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" content="Premium wallet and VPN brand domains for sale: walletstarter.com, walletstarter.io, walletstarter.xyz, walletorbits.com, vpnworldwallet.com. Ideal for crypto wallets, VPN+wallet superapps, and Web3 fintech.">
+
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #050816;
+      color: #f9fafb;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .page {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      border-bottom: 1px solid rgba(148, 163, 184, 0.35);
+      background: radial-gradient(circle at top, rgba(56, 189, 248, 0.25), transparent 60%);
+      backdrop-filter: blur(10px);
+    }
+
+    .container {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 1.25rem 1rem;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .nav-logo {
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 0.9rem;
+      color: #e5e7eb;
+    }
+
+    .nav-chip {
+      font-size: 0.75rem;
+      padding: 0.35rem 0.7rem;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.7);
+      color: #cbd5f5;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: rgba(15, 23, 42, 0.75);
+    }
+
+    main {
+      flex: 1;
+    }
+
+    .hero {
+      padding-top: 1.5rem;
+      padding-bottom: 2rem;
+      display: grid;
+      grid-template-columns: minmax(0, 3fr) minmax(0, 2.5fr);
+      gap: 2.5rem;
+      align-items: center;
+    }
+
+    @media (max-width: 900px) {
+      .hero {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .hero-eyebrow {
+      font-size: 0.85rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #a5b4fc;
+      margin-bottom: 0.75rem;
+    }
+
+    .hero-title {
+      font-size: clamp(1.9rem, 4vw, 2.6rem);
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin-bottom: 0.85rem;
+    }
+
+    .hero-highlight {
+      color: #38bdf8;
+    }
+
+    .hero-subtitle {
+      font-size: 0.98rem;
+      color: #cbd5f5;
+      max-width: 34rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .hero-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .hero-pill {
+      font-size: 0.8rem;
+      padding: 0.32rem 0.6rem;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.6);
+      color: #e5e7eb;
+      background: rgba(15, 23, 42, 0.85);
+      backdrop-filter: blur(8px);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+
+    .btn {
+      border-radius: 999px;
+      padding: 0.7rem 1.4rem;
+      font-size: 0.92rem;
+      font-weight: 600;
+      border: 1px solid transparent;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      text-decoration: none;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #38bdf8, #6366f1);
+      color: #0b1120;
+      box-shadow: 0 12px 30px rgba(37, 99, 235, 0.55);
+    }
+
+    .btn-primary:hover {
+      filter: brightness(1.04);
+      text-decoration: none;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #e5e7eb;
+      border-color: rgba(148, 163, 184, 0.7);
+    }
+
+    .btn-outline:hover {
+      background: rgba(15, 23, 42, 0.9);
+      text-decoration: none;
+    }
+
+    .hero-note {
+      font-size: 0.8rem;
+      color: #9ca3af;
+    }
+
+    .hero-card {
+      border-radius: 1.1rem;
+      background: radial-gradient(circle at top left, rgba(56, 189, 248, 0.3), transparent 60%), #020617;
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      padding: 1.3rem 1.1rem;
+      box-shadow: 0 15px 50px rgba(15, 23, 42, 0.9);
+    }
+
+    .hero-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.8rem;
+      gap: 0.75rem;
+    }
+
+    .hero-card-title {
+      font-size: 0.98rem;
+      font-weight: 600;
+    }
+
+    .hero-card-tag {
+      font-size: 0.72rem;
+      padding: 0.25rem 0.6rem;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.9);
+      color: #a5b4fc;
+      border: 1px solid rgba(129, 140, 248, 0.7);
+    }
+
+    .hero-card-domain {
+      font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.9rem;
+      padding: 0.5rem 0.65rem;
+      border-radius: 0.65rem;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid rgba(148, 163, 184, 0.55);
+      margin-bottom: 0.65rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .hero-card-domain span.price-chip {
+      font-size: 0.8rem;
+      color: #bbf7d0;
+      background: rgba(22, 163, 74, 0.15);
+      border-radius: 999px;
+      padding: 0.15rem 0.6rem;
+      border: 1px solid rgba(34, 197, 94, 0.45);
+    }
+
+    .hero-card-list {
+      list-style: none;
+      font-size: 0.8rem;
+      color: #cbd5f5;
+      margin-bottom: 0.9rem;
+    }
+
+    .hero-card-list li {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .hero-card-dot {
+      width: 0.35rem;
+      height: 0.35rem;
+      border-radius: 999px;
+      background: #38bdf8;
+      flex-shrink: 0;
+    }
+
+    .hero-card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 0.5rem;
+      gap: 0.75rem;
+    }
+
+    .hero-card-meta {
+      font-size: 0.72rem;
+      color: #9ca3af;
+    }
+
+    .hero-card-cta {
+      font-size: 0.78rem;
+      color: #a5b4fc;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    .section {
+      padding: 1.5rem 0 2rem 0;
+      border-top: 1px solid rgba(30, 64, 175, 0.85);
+      background: radial-gradient(circle at bottom, rgba(37, 99, 235, 0.16), transparent 60%);
+    }
+
+    .section-header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+
+    .section-subtitle {
+      font-size: 0.9rem;
+      color: #cbd5f5;
+      max-width: 28rem;
+    }
+
+    .bundle-card {
+      border-radius: 1rem;
+      border: 1px solid rgba(96, 165, 250, 0.7);
+      background: rgba(15, 23, 42, 0.85);
+      padding: 1rem 1rem 0.9rem;
+      margin-bottom: 1.4rem;
+    }
+
+    .bundle-header {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      align-items: center;
+    }
+
+    .bundle-title {
+      font-weight: 600;
+      font-size: 0.98rem;
+    }
+
+    .bundle-price {
+      font-size: 0.9rem;
+      color: #bbf7d0;
+    }
+
+    .bundle-domains {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.75rem;
+      font-size: 0.78rem;
+    }
+
+    .bundle-chip {
+      padding: 0.25rem 0.55rem;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.7);
+      background: rgba(15, 23, 42, 0.95);
+    }
+
+    .bundle-footer {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 0.8rem;
+      color: #9ca3af;
+      padding-top: 0.4rem;
+      border-top: 1px solid rgba(31, 41, 55, 0.9);
+    }
+
+    .bundle-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .domain-table-wrapper {
+      overflow-x: auto;
+      border-radius: 0.9rem;
+      border: 1px solid rgba(55, 65, 81, 0.9);
+      background: rgba(15, 23, 42, 0.95);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+      min-width: 640px;
+    }
+
+    thead {
+      background: rgba(15, 23, 42, 1);
+    }
+
+    th, td {
+      padding: 0.65rem 0.8rem;
+      border-bottom: 1px solid rgba(31, 41, 55, 0.9);
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    th {
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9ca3af;
+    }
+
+    tbody tr:nth-child(even) {
+      background: rgba(15, 23, 42, 0.9);
+    }
+
+    tbody tr:hover {
+      background: rgba(30, 64, 175, 0.45);
+    }
+
+    .domain-name {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.88rem;
+    }
+
+    .domain-primary {
+      color: #fbbf24;
+    }
+
+    .domain-tag {
+      font-size: 0.7rem;
+      padding: 0.18rem 0.45rem;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid rgba(148, 163, 184, 0.7);
+      color: #cbd5f5;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .domain-tag span.dot {
+      width: 0.3rem;
+      height: 0.3rem;
+      border-radius: 999px;
+      background: #22c55e;
+    }
+
+    .price-cell {
+      color: #bbf7d0;
+    }
+
+    .min-offer {
+      color: #e5e7eb;
+      font-size: 0.8rem;
+    }
+
+    .use-case {
+      font-size: 0.8rem;
+      color: #cbd5f5;
+      max-width: 24rem;
+    }
+
+    .market-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      font-size: 0.78rem;
+    }
+
+    .market-link-pill {
+      padding: 0.22rem 0.55rem;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid rgba(148, 163, 184, 0.8);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      color: #e5e7eb;
+    }
+
+    .market-link-pill span.label {
+      opacity: 0.8;
+    }
+
+    .market-link-pill a {
+      color: #38bdf8;
+      text-decoration: underline;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.1fr);
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .grid-2 {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .card {
+      border-radius: 1rem;
+      border: 1px solid rgba(55, 65, 81, 1);
+      background: rgba(15, 23, 42, 0.96);
+      padding: 1rem 1rem 1.1rem;
+    }
+
+    .card-title {
+      font-size: 0.98rem;
+      font-weight: 600;
+      margin-bottom: 0.4rem;
+    }
+
+    .card-body {
+      font-size: 0.85rem;
+      color: #cbd5f5;
+      margin-bottom: 0.7rem;
+    }
+
+    .card-list {
+      list-style: disc;
+      padding-left: 1.1rem;
+      font-size: 0.8rem;
+      color: #e5e7eb;
+    }
+
+    .card-list li {
+      margin-bottom: 0.22rem;
+    }
+
+    .form-group {
+      margin-bottom: 0.7rem;
+    }
+
+    .form-label {
+      font-size: 0.8rem;
+      display: block;
+      margin-bottom: 0.2rem;
+      color: #e5e7eb;
+    }
+
+    .form-label span.hint {
+      color: #9ca3af;
+      font-size: 0.75rem;
+    }
+
+    .form-input, .form-textarea, .form-select {
+      width: 100%;
+      border-radius: 0.6rem;
+      border: 1px solid rgba(75, 85, 99, 1);
+      padding: 0.55rem 0.6rem;
+      font-size: 0.85rem;
+      background: rgba(15, 23, 42, 0.96);
+      color: #f9fafb;
+    }
+
+    .form-input:focus, .form-textarea:focus, .form-select:focus {
+      outline: none;
+      border-color: #38bdf8;
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.6);
+    }
+
+    .form-textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-helper {
+      font-size: 0.75rem;
+      color: #9ca3af;
+      margin-top: 0.2rem;
+    }
+
+    .form-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 0.75rem;
+      margin-top: 0.6rem;
+    }
+
+    .form-note {
+      font-size: 0.75rem;
+      color: #9ca3af;
+    }
+
+    footer {
+      border-top: 1px solid rgba(30, 64, 175, 0.85);
+      padding: 0.9rem 0;
+      font-size: 0.75rem;
+      color: #9ca3af;
+      background: #020617;
+    }
+
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.7rem;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="container nav">
+      <div class="nav-logo">WalletStarter Domains</div>
+      <div class="nav-chip">
+        <span>Premium wallet + VPN naming bundle</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container hero" id="top">
+      <div>
+        <div class="hero-eyebrow">Domains for Sale</div>
+        <h1 class="hero-title">
+          Wallet & VPN brand <span class="hero-highlight">domain portfolio</span> available for acquisition
+        </h1>
+        <p class="hero-subtitle">
+          A small, focused set of names ideal for crypto wallets, on-ramp tools, VPN+wallet super-apps, and Web3
+          fintech content hubs. Buy individually or as a single bundle via secure escrow.
+        </p>
+
+        <div class="hero-pills">
+          <div class="hero-pill">walletstarter.com</div>
+          <div class="hero-pill">walletstarter.io</div>
+          <div class="hero-pill">walletstarter.xyz</div>
+          <div class="hero-pill">walletorbits.com</div>
+          <div class="hero-pill">vpnworldwallet.com</div>
+        </div>
+
+        <div class="hero-actions">
+          <a href="#bundle" class="btn btn-primary">
+            View bundle pricing
+          </a>
+          <a href="#inquiry" class="btn btn-outline">
+            Submit serious offer
+          </a>
+        </div>
+        <div class="hero-note">
+          Direct transfer via Escrow.com, Afternic, or Sedo. Buyer receives full domain ownership.
+        </div>
+      </div>
+
+      <aside class="hero-card" aria-label="VPNWorldWallet highlight">
+        <div class="hero-card-header">
+          <div>
+            <div class="hero-card-title">Featured: VPNWorldWallet.com</div>
+            <div class="hero-card-meta">VPN + crypto wallet brand candidate</div>
+          </div>
+          <div class="hero-card-tag">VPN + Wallet Hybrid</div>
+        </div>
+
+        <div class="hero-card-domain">
+          <span>vpnworldwallet.com</span>
+          <span class="price-chip">Guide: from $2,000</span>
+        </div>
+
+        <ul class="hero-card-list">
+          <li><span class="hero-card-dot"></span><span>Ideal for a VPN-backed non-custodial or multi-sig wallet product.</span></li>
+          <li><span class="hero-card-dot"></span><span>Works for affiliate comparison sites or “VPN + Web3 security” content hubs.</span></li>
+          <li><span class="hero-card-dot"></span><span>Crypto-native phrasing resonates with privacy-first users.</span></li>
+        </ul>
+
+        <div class="hero-card-footer">
+          <div class="hero-card-meta">
+            Looking at this from an ad or marketplace listing?<br>
+            Reference <strong>VPN bundle</strong> in your offer.
+          </div>
+          <a href="#inquiry" class="hero-card-cta">Make an offer →</a>
+        </div>
+      </aside>
+    </div>
+
+    <section class="section" id="bundle">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-title">Bundle purchase option</div>
+          <div class="section-subtitle">
+            The portfolio can be acquired in one transaction. This is often cleaner for new products, stealth startups,
+            and marketing teams who want naming flexibility across multiple TLDs.
+          </div>
+        </div>
+
+        <div class="bundle-card">
+          <div class="bundle-header">
+            <div>
+              <div class="bundle-title">Wallet + VPN Brand Portfolio (all domains)</div>
+              <div class="hero-card-meta">Includes all five domains listed below in a single transfer.</div>
+            </div>
+            <div class="bundle-price">
+              Guide bundle: <strong>$9,500</strong><br>
+              <span style="font-size:0.78rem;color:#9ca3af;">Open to serious, near-guide offers.</span>
+            </div>
+          </div>
+
+          <div class="bundle-domains">
+            <span class="bundle-chip">walletstarter.com</span>
+            <span class="bundle-chip">walletstarter.io</span>
+            <span class="bundle-chip">walletstarter.xyz</span>
+            <span class="bundle-chip">walletorbits.com</span>
+            <span class="bundle-chip">vpnworldwallet.com</span>
+          </div>
+
+          <div class="bundle-footer">
+            <div>
+              <div>Transaction options:</div>
+              <div>Escrow.com, Afternic, Sedo, or brokered via Saw.com on request.</div>
+            </div>
+            <div class="bundle-actions">
+              <!-- Replace the # links with your actual marketplace URLs when ready -->
+              <a class="btn btn-outline" href="#inquiry">
+                Request bundle quote
+              </a>
+              <a class="btn btn-outline" href="#" id="bundle-escrow-link">
+                View Escrow/Afternic listing
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-header" style="margin-top:1.5rem;">
+          <div class="section-title">Individual domains</div>
+          <div class="section-subtitle">
+            The table below lists suggested guide prices and minimum offer levels. If you submit an offer, you can
+            reference these or propose an alternative structure.
+          </div>
+        </div>
+
+        <div class="domain-table-wrapper">
+          <table aria-label="Domain portfolio pricing">
+            <thead>
+            <tr>
+              <th>Domain</th>
+              <th>Guide BIN</th>
+              <th>Minimum Offer</th>
+              <th>Ideal Use Case</th>
+              <th>Marketplaces</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr id="walletstarter-com">
+              <td>
+                <span class="domain-name domain-primary">walletstarter.com</span><br>
+                <span class="domain-tag">
+                  <span class="dot"></span><span>Primary brand</span>
+                </span>
+              </td>
+              <td class="price-cell">$3,500</td>
+              <td>
+                <div class="min-offer">From $2,000+</div>
+              </td>
+              <td class="use-case">
+                Flagship brand for a crypto wallet, on-ramp tool, or personal finance onboarding product.
+              </td>
+              <td>
+                <div class="market-links">
+                  <div class="market-link-pill">
+                    <span class="label">Afternic:</span>
+                    <a href="#" id="afternic-walletstarter-com">view</a>
+                  </div>
+                  <div class="market-link-pill">
+                    <span class="label">Sedo:</span>
+                    <a href="#" id="sedo-walletstarter-com">view</a>
+                  </div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id="walletstarter-io">
+              <td>
+                <span class="domain-name">walletstarter.io</span><br>
+                <span class="domain-tag">
+                  <span class="dot"></span><span>Tech / API</span>
+                </span>
+              </td>
+              <td class="price-cell">$750</td>
+              <td>
+                <div class="min-offer">From $400+</div>
+              </td>
+              <td class="use-case">
+                Great for developer-facing docs, API endpoints, or technical marketing attached to walletstarter.com.
+              </td>
+              <td>
+                <div class="market-links">
+                  <div class="market-link-pill">
+                    <span class="label">Afternic:</span>
+                    <a href="#" id="afternic-walletstarter-io">view</a>
+                  </div>
+                  <div class="market-link-pill">
+                    <span class="label">Sedo:</span>
+                    <a href="#" id="sedo-walletstarter-io">view</a>
+                  </div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id="walletstarter-xyz">
+              <td>
+                <span class="domain-name">walletstarter.xyz</span><br>
+                <span class="domain-tag">
+                  <span class="dot"></span><span>Experimental</span>
+                </span>
+              </td>
+              <td class="price-cell">$500</td>
+              <td>
+                <div class="min-offer">From $250+</div>
+              </td>
+              <td class="use-case">
+                Sandbox, growth experiments, or community site attached to the core WalletStarter brand.
+              </td>
+              <td>
+                <div class="market-links">
+                  <div class="market-link-pill">
+                    <span class="label">Afternic:</span>
+                    <a href="#" id="afternic-walletstarter-xyz">view</a>
+                  </div>
+                  <div class="market-link-pill">
+                    <span class="label">Sedo:</span>
+                    <a href="#" id="sedo-walletstarter-xyz">view</a>
+                  </div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id="walletorbits-com">
+              <td>
+                <span class="domain-name">walletorbits.com</span><br>
+                <span class="domain-tag">
+                  <span class="dot"></span><span>Movement / routing</span>
+                </span>
+              </td>
+              <td class="price-cell">$1,500</td>
+              <td>
+                <div class="min-offer">From $800+</div>
+              </td>
+              <td class="use-case">
+                Strong fit for a product focused on routing funds, streaming payments, or “money in motion” UX.
+              </td>
+              <td>
+                <div class="market-links">
+                  <div class="market-link-pill">
+                    <span class="label">Afternic:</span>
+                    <a href="#" id="afternic-walletorbits-com">view</a>
+                  </div>
+                  <div class="market-link-pill">
+                    <span class="label">Sedo:</span>
+                    <a href="#" id="sedo-walletorbits-com">view</a>
+                  </div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id="vpnworldwallet-com">
+              <td>
+                <span class="domain-name">vpnworldwallet.com</span><br>
+                <span class="domain-tag">
+                  <span class="dot"></span><span>VPN + wallet</span>
+                </span>
+              </td>
+              <td class="price-cell">$2,000</td>
+              <td>
+                <div class="min-offer">From $1,200+</div>
+              </td>
+              <td class="use-case">
+                Perfect for a VPN-integrated wallet, privacy-first DeFi tool, or VPN + Web3 security review site.
+              </td>
+              <td>
+                <div class="market-links">
+                  <div class="market-link-pill">
+                    <span class="label">Afternic:</span>
+                    <a href="#" id="afternic-vpnworldwallet-com">view</a>
+                  </div>
+                  <div class="market-link-pill">
+                    <span class="label">Sedo:</span>
+                    <a href="#" id="sedo-vpnworldwallet-com">view</a>
+                  </div>
+                </div>
+              </td>
+            </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="inquiry">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-title">Serious offer / inquiry</div>
+          <div class="section-subtitle">
+            For genuine interest only. Use this form to indicate which domains you want, your guide price, and whether
+            you prefer Escrow.com, Afternic, Sedo, or Saw.com brokerage.
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-title">Submit a purchase request</div>
+            <div class="card-body">
+              This sends a message directly to the owner. Expect a response as soon as reasonably possible for serious
+              offers that are in range of the guide pricing above.
+            </div>
+
+            <!--
+              Replace the "action" URL with your actual form processor:
+              - Formspree, GetForm, Basin, homegrown endpoint, etc.
+            -->
+            <form id="offer-form" action="https://example.com/your-form-endpoint" method="POST" novalidate>
+              <div class="form-group">
+                <label class="form-label" for="name">Name</label>
+                <input class="form-input" type="text" id="name" name="name" required>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="email">Contact (email or Telegram handle)</label>
+                <input class="form-input" type="text" id="email" name="contact" required>
+                <div class="form-helper">Used only to respond to this inquiry.</div>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="domains">
+                  Domain(s) of interest
+                  <span class="hint">(copy from the table above)</span>
+                </label>
+                <input class="form-input" type="text" id="domains" name="domains" placeholder="Example: vpnworldwallet.com, walletstarter.com" required>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="offer">
+                  Proposed offer (USD)
+                  <span class="hint">(or ask for a formal quote)</span>
+                </label>
+                <input class="form-input" type="text" id="offer" name="offer" placeholder="Example: $2,000 for vpnworldwallet.com or Request formal quote">
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="channel">Preferred transaction channel</label>
+                <select class="form-select" id="channel" name="channel">
+                  <option value="">Select an option</option>
+                  <option value="escrow">Escrow.com</option>
+                  <option value="afternic">Afternic</option>
+                  <option value="sedo">Sedo</option>
+                  <option value="saw">Saw.com broker</option>
+                  <option value="other">Other (specify in message)</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label class="form-label" for="message">Notes / use case (optional)</label>
+                <textarea class="form-textarea" id="message" name="message" placeholder="Briefly describe how you plan to use the domain or any timing constraints."></textarea>
+              </div>
+
+              <!-- Hidden field to capture AADS/source tag -->
+              <input type="hidden" id="source" name="source" value="">
+
+              <div class="form-footer">
+                <div class="form-note">
+                  Minimum serious offers are noted in the table above.<br>
+                  Lowball / automated spam will be ignored.
+                </div>
+                <button type="submit" class="btn btn-primary">
+                  Send inquiry
+                </button>
+              </div>
+            </form>
+          </div>
+
+          <div class="card">
+            <div class="card-title">How to reference this page from AADS</div>
+            <div class="card-body">
+              If you discovered this page through an ad campaign, the URL may include a tracking parameter such as
+              <code>?aads=vpn</code> or <code>?aads=wallet</code>. That tag is recorded in the hidden
+              <strong>source</strong> field above so it is possible to see which creative and campaign generated
+              interest.
+            </div>
+            <ul class="card-list">
+              <li>VPN-focused ads can point to <code>/domains-for-sale?aads=vpn</code>.</li>
+              <li>Wallet-focused ads can point to <code>/domains-for-sale?aads=wallet</code>.</li>
+              <li>General portfolio ads can use <code>?aads=portfolio</code>.</li>
+            </ul>
+            <div class="form-helper" style="margin-top:0.7rem;">
+              When reviewing inquiries you can sort by the captured <strong>source</strong> value to measure which AADS
+              campaign or creative actually generated real buyer intent.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>WalletStarter naming portfolio – all domains offered as-is, transfer via reputable escrow or marketplaces only.</div>
+      <div class="footer-links">
+        <a href="#top">Back to top</a>
+        <a href="#bundle">Bundle details</a>
+        <a href="#inquiry">Submit offer</a>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<script>
+  (function () {
+    // Capture simple query param for AADS/source tracking and put it into hidden input
+    function getQueryParam(name) {
+      const params = new URLSearchParams(window.location.search);
+      return params.get(name);
+    }
+
+    const sourceField = document.getElementById("source");
+    if (sourceField) {
+      var aadsTag = getQueryParam("aads");
+      if (aadsTag) {
+        sourceField.value = "aads:" + aadsTag;
+      } else {
+        sourceField.value = "direct";
+      }
+    }
+
+    // Optional: console log basic tracking info for quick inspection
+    console.log("Offer form source:", sourceField ? sourceField.value : "n/a");
+  })();
+</script>
+</body>
+</html>
